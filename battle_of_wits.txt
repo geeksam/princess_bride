@@ -72,3 +72,14 @@ Dread Pirate Roberts: < turns away from Vizzini with the goblets,
             All right. Where is the poison? The battle of wits
             has begun. It ends when you decide and we both
             drink, and find out who is right...and who is dead.
+
+Vizzini:    But it's so simple. All I have to do is divine from
+            what I know of you: are you the sort of man who
+            would put the poison into his own goblet or his
+            enemy's? Now, a clever man would put the poison into
+            his own goblet, because he would know that only a
+            great fool would reach for what he was given. I am
+            not a great fool, so I can clearly not choose the
+            wine in front of you. But you must have known I was
+            not a great fool, you would have counted on it, so I
+            can clearly not choose the wine in front of me.
