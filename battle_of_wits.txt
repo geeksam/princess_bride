@@ -1,0 +1,74 @@
+[Scene: Open area. Vizzini is seated behind a covered table.
+Buttercup, blindfolded, is sitting to his left. On the table is a
+bottle of wine and two goblets. Roberts approaches the Table]
+
+Vizzini:    So it is down to you, and it is down to me. If you
+            wish her dead, by all means, keep moving forward.
+
+Dread Pirate Roberts:
+
+            Let me explain--
+
+Vizzini:    There's nothing to explain. You're trying to kidnap
+            what I have rightfully stolen.
+
+Dread Pirate Roberts:
+
+            Perhaps an arrangement can be reached?
+
+Vizzini:    There will be no arrangement, and you're killing her.
+
+Dread Pirate Roberts:
+
+            Well if there can be no arrangement, then we are at
+            an impasse.
+
+Vizzini:    I'm afraid so. I can't compete with you physically,
+            and you're no match for my brains.
+
+Dread Pirate Roberts:
+
+            You're that smart?
+
+Vizzini:    Let me put it this way: have you ever heard of Plato,
+            Aristotle, Socrates?
+
+Dread Pirate Roberts:
+
+            Yes.
+
+Vizzini:    Morons.
+
+Dread Pirate Roberts:
+
+            Really. [pause] In that case, I challenge you to a
+            battle of wits.
+
+Vizzini:    For the princess? < Pirate nods > To the death? <
+            Pirate nods > I accept.
+
+Dread Pirate Roberts:
+
+            Good. Then pour the wine.
+
+            [Roberts pulls out a small vial, and uncorks it]
+
+            Inhale this, but do not touch.
+
+Vizzini:    I smell nothing.
+
+Dread Pirate Roberts:
+
+            What you do not smell is called Iocane powder. It is
+            odorless, tasteless, dissolves instantly in liquid,
+            and is among the more deadly poisons known to man.
+
+Vizzini:    Hmmmm.
+
+Dread Pirate Roberts: < turns away from Vizzini with the goblets,
+            and pours the poison in. Goblets replaced on the
+            table, one in front of each. >
+
+            All right. Where is the poison? The battle of wits
+            has begun. It ends when you decide and we both
+            drink, and find out who is right...and who is dead.
