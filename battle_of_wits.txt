@@ -129,3 +129,6 @@ Dread Pirate Roberts:
             You're trying to trick me into giving away something.
             It won't work.
 
+Vizzini:    IT HAS WORKED! YOU'VE GIVEN EVERYTHING AWAY! I KNOW
+            WHERE THE POISON IS!
+
